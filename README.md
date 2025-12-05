@@ -6,4 +6,4 @@ Download and play directly on the play store at https://play.google.com/store/ap
 
 Git integration with Andriod studio is probably broken because I wrote this all before adding it to git.
 
-Direct any questions to pohl.devin@gmail.com
+Direct any questions to —π REST IN PEACE DEVIN POHL 2000-2025.  
